@@ -1,1 +1,3 @@
 # data-sourcing-challenge
+
+NASA_API_KEY=ehq6bCpEpV2fRx5yUW4ze0XCfjUkLhFTuV33iv52
